@@ -18,9 +18,12 @@ apt-get install -qq -y --no-install-recommends \
 bc \
 bison \
 build-essential \
+cmake \
+cpputest \
 curl \
 flex \
 gcc \
+g++ \
 git \
 gperf \
 jq \
